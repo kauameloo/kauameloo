@@ -1,7 +1,7 @@
 ## Olá 👋
 
 - 💼 A procura do primeiro emprego
-- 💻 Cursando Técnico Desenvolvimento de Sistemas
+- 💻 Cursando Técnico Desenvolvimento de Sistemas (SENAI Paulo Skaf)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
