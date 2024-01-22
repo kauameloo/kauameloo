@@ -4,7 +4,7 @@
 - 💻 Cursando Técnico Desenvolvimento de Sistemas (SENAI Paulo Skaf)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (Faculdade de Informática e Administração Paulista - FIAP)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+
 
 <div>
 <a href="https://github.com/kauameloo">
