@@ -6,8 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauameloo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauameloo&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauameloo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
    <h2>🔧 Linguagens e Ferramentas 🔧</h2>
